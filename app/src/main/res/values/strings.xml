@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PassMVP</string>
+    <string name="weak">BAJO</string>
+    <string name="medium">MEDIO</string>
+    <string name="strong">ALTO</string>
+    <string name="pass_level">Nivel de seguridad</string>
+    <string name="pass_enter">Ingrese contraseña</string>
 </resources>
